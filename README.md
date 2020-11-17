@@ -4,14 +4,8 @@ Tema: Aviões
 
 ## Preview
 
-- Lista/Remove
-
-![Print 1](.github/list.jpg)
-
-- Cadastra
-
-![Print 2](.github/create.jpg)
-
-- Atualiza
-
-![Print 3](.github/update.jpg)
+<p>
+  <img src="/.github/list.jpg" width="300" />
+  <img src="/.github/create.jpg" width="300" />
+  <img src="/.github/update.jpg" width="300" />
+</p>
